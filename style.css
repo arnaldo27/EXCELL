@@ -28,7 +28,9 @@ button {
     border-radius: 10px;
     cursor: pointer;
     animation: pulse 1s infinite;
+    text-transform: uppercase;
 }
+
 
 @keyframes pulse {
     0% {
