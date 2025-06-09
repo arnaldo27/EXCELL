@@ -2,12 +2,13 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 60px;
+    margin-top: 20px;
     margin-bottom: 10px;
     width: 300px;
     height: 500px;
     object-fit: contain;
-    border-bottom: 8px 
+    border-bottom: 8px;
+    padding-bottom: 60PX;;
 }
 
 img:hover {
