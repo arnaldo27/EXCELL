@@ -8,11 +8,11 @@ img {
     height: 500px;
     object-fit: contain;
     border-bottom: 8px;
-    padding-bottom: 60PX;;
+    padding-bottom: 40PX;;
 }
 
 img:hover {
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     background: #f0f0f0;
 }
 
@@ -20,7 +20,7 @@ button {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 10px;
+    margin-top: 20px;
     background-color: #007bff;
     color: white;
     padding: 10px 20px;
