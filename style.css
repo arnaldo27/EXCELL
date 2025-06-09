@@ -2,20 +2,24 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 20px;
-    margin-bottom: 40px;
+    margin-top: 60px;
+    margin-bottom: 10px;
     width: 300px;
-    height: 600px;
+    height: 500px;
     object-fit: contain;
-
+    border-bottom: 8px 
 }
 
+img:hover {
+    padding-bottom: 40px;
+    background: #f0f0f0;
+}
 
 button {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 60px;
+    margin-top: 10px;
     background-color: #007bff;
     color: white;
     padding: 10px 20px;
@@ -45,7 +49,7 @@ button {
     img {
         width: 100%;
         max-width: 400px;
-        height: 400PX;
+        height: 600px;
         object-fit: contain;
     }
 }
